@@ -1,0 +1,1 @@
+print("work as hard as you can")
